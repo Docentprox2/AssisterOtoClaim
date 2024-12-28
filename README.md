@@ -1,6 +1,10 @@
 # AssisterOtoClaim
 AssisterClaim
 
+
+
+
+
 function clickGrabTokenButton() {
     // Butonu text içeriğine göre bul
     const buttons = Array.from(document.getElementsByTagName('button'));
@@ -25,3 +29,8 @@ const oneHour = 60 * 60 * 1000;
 setInterval(clickGrabTokenButton, oneHour);
 
 console.log('Auto clicker started! Will click every 1 hour.');
+
+
+
+
+
