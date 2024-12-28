@@ -1,7 +1,7 @@
 # AssisterOtoClaim
 AssisterClaim
 
-
+Aşağıdaki kodun hepsini tamamen kopyalayın .. 
 
 
 
